@@ -1,4 +1,4 @@
-module github.com/lestrrat-go/libxml2
+module github.com/joeirimpan/libxml2
 
 go 1.12
 
