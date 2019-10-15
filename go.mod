@@ -1,4 +1,4 @@
-module github.com/lestrrat-go/libxml2
+module github.com/joeirimpan/libxml2
 
 go 1.12
 
@@ -9,3 +9,5 @@ require (
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 	launchpad.net/xmlpath v0.0.0-20130614043138-000000000004 // indirect
 )
+
+replace github.com/lestrrat-go/libxml2 => github.com/joeirimpan/libxml2 v1.0.0
