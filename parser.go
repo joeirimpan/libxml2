@@ -3,8 +3,8 @@ package libxml2
 import (
 	"io"
 
-	"github.com/lestrrat-go/libxml2/parser"
-	"github.com/lestrrat-go/libxml2/types"
+	"github.com/joeirimpan/libxml2/parser"
+	"github.com/joeirimpan/libxml2/types"
 )
 
 // Parse parses the given buffer and returns a Document.
